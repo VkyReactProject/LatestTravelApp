@@ -1,0 +1,29 @@
+.PackageDetailsBookSlot-Container{
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+
+    
+  
+ 
+   
+    
+}
+
+.PackageDetailsBookSlot-Container .Card-Header-Package-Body{
+background-color: rgba(205, 212, 214, 0.687);
+display: flex;
+justify-content: space-between;
+}
+
+.PackageDetailsBookSlot-Container .Card-Header-Package{
+    width: 90%;
+  
+
+  }
+
+  .Card-Header-Package-Body{
+    
+    height: 100%;
+  }

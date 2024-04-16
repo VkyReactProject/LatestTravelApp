@@ -1,0 +1,77 @@
+.profile-Main-Container{
+    width: 100%;
+    height: 100%;
+}
+.profile-header-container{
+    border: 2px solid rgb(199, 192, 192);
+    display: flex;
+  align-self: center;
+  box-shadow:0 8px 10px 0 rgba(214, 212, 212, 0.801);
+}
+.profile-back-element{
+   
+    align-self: center;
+    font-size: 3dvh;
+  
+   
+    justify-content: center;
+    padding: 10px;
+}
+.profile-header-text{
+    margin-top: 20px;
+    align-self: center;
+    width: 100%;
+}
+.profile-content-wrap{
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+}
+.profile-content-editBtn {
+    color: rgb(0, 26, 255);
+    font-weight: 500;
+}
+.profile-content-editBtn a:hover{
+    cursor: pointer;
+}
+.profile-content-container{
+    margin-top: 10%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid rgb(199, 192, 192);
+    box-shadow:0 8px 10px 0 rgba(214, 212, 212, 0.801);
+    width: 95%;
+    
+}
+.profile-content-header{
+    display: flex;
+  
+    width: 100%;
+    margin-top: 10px;
+}
+.profile-content-text{
+   
+    margin-left: 10px;
+    width: 50%;
+    font-size: 2dvh;
+}
+.profile-content-text p{
+    font-weight: bold;
+}
+.profile-content-editBtn{
+   padding-right: 6%;
+    width: 50%;
+    text-align: end;
+    
+}
+.profile-icon{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 5dvh;
+}
+
+.profile-content-body #btn-submit{
+    margin-top: 20px;
+}

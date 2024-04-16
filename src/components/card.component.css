@@ -1,0 +1,52 @@
+
+.card-container  .Card-Header{
+ color: rgb(152, 5, 5);
+
+
+ width: 90%  !important;
+ 
+
+}
+.card-container a{
+    text-decoration: none;
+}
+ #Card-Rating{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   font-size: 20px;
+
+   width: 15%;
+ 
+    
+}
+
+.card-price-container{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   font-size: 15px;
+   width: 15%;
+}
+.card-price-container .Card-price{
+    margin-top: 2px;
+}
+.Card-Rating-text{
+    color: rebeccapurple;
+    padding-top: 5px;
+    
+}
+.card-container  .Card-Header #Card-Rating img{
+  
+    width: auto;
+    /* height: 20px;    */
+}
+.card-container  {
+    margin-bottom: 30%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 30px;
+   }

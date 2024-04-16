@@ -1,0 +1,23 @@
+.Intro-Container .img-container{
+    height: 60dvh;
+    width: 100%;
+    
+  
+
+}
+ .img-container img{
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+.Intro-Container .text-Container{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    /* padding: 7px; */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+}

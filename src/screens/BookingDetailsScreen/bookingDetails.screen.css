@@ -1,0 +1,46 @@
+.bookingDetails-Main-Container{
+    height: 100%;
+    width: 100%; 
+}
+.booking-detials-header-container{
+    border: 2px solid rgb(199, 192, 192);
+    display: flex;
+  align-self: center;
+  box-shadow:0 8px 10px 0 rgba(214, 212, 212, 0.801);
+}
+
+
+.booking-details-pageClose{
+   
+    align-self: center;
+    font-size: 3dvh;
+  
+   
+    justify-content: center;
+    padding: 10px;
+}
+.booking-details-header-text{
+    margin-top: 20px;
+    align-self: center;
+    width: 100%;
+}
+.booking-details-body-container{
+  margin-top: 10px;
+}
+.booking-details-status-container{
+    border: 2px solid rgb(199, 192, 192);
+    border-radius: 20px;
+    width: 93%;
+    padding: 10px;
+    text-align:justify;
+    font-size: 13px;
+    text-wrap: wrap;
+    box-shadow:0 8px 10px 0 rgba(214, 212, 212, 0.801);
+}
+
+.booking-details-body-wrap{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+}
